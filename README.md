@@ -1,4 +1,0 @@
-tix
-===
-
-Tix ticket tracker
