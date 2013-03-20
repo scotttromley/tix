@@ -37,3 +37,5 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 gem 'mysql2'
+gem 'haml'
+gem 'haml-rails'
